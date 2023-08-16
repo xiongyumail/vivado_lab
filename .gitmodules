@@ -1,0 +1,3 @@
+[submodule "tools/gdocker"]
+	path = tools/gdocker
+	url = https://github.com/xiongyumail/gdocker
