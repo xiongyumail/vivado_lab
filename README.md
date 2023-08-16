@@ -7,9 +7,10 @@ vivado_lab installed into a docker image for CI purposes.
 1. Clone
 
 ```
+sudo apt install git-lfs
 git clone --recursive https://github.com/xiongyumail/vivado_lab.git
 ```
-2. Install docker.io
+2. Install docker.io 
 
 ```
 sudo apt install docker.io
